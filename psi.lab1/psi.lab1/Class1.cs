@@ -8,6 +8,8 @@ namespace psi.lab1
     {
         public void idk()
         { }
+        public void ik()
+        { }
     }
 }
 //idk
