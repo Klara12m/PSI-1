@@ -7,6 +7,7 @@ namespace psi.lab1
         static void Main(string[] args)
         {
             Console.WriteLine("Novo2");
+            //hej
         }
     }
 }
