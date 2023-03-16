@@ -10,3 +10,4 @@ namespace psi.lab1
         { }
     }
 }
+//idk
