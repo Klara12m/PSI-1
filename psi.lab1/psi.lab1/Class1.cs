@@ -6,6 +6,8 @@ namespace psi.lab1
 {
     class Class1
     {
+        public void ik()
+        { }
     }
 }
 //idk
